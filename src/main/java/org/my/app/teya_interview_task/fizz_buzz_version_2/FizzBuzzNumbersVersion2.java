@@ -1,4 +1,4 @@
-package org.my.app.teya_interview_task;
+package org.my.app.teya_interview_task.fizz_buzz_version_2;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -36,4 +36,5 @@ public class FizzBuzzNumbersVersion2 {
             }
         }
     }
+
 }

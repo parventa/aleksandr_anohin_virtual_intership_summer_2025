@@ -1,4 +1,4 @@
-package org.my.app.teya_interview_task;
+package org.my.app.teya_interview_task.combinations_version_1;
 
 import org.junit.jupiter.api.Test;
 

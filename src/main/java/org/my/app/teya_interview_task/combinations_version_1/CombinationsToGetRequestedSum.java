@@ -1,4 +1,4 @@
-package org.my.app.teya_interview_task;
+package org.my.app.teya_interview_task.combinations_version_1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -42,6 +42,7 @@ public class CombinationsToGetRequestedSum {
         }
         return result;
     }
+
 }
 
 

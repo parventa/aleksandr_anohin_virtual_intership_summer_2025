@@ -1,4 +1,4 @@
-package org.my.app.teya_interview_task;
+package org.my.app.teya_interview_task.fizz_buzz_version_1;
 
 public class FizzBuzzPrintByNumbersApp {
     public static void main(String[] args) {
